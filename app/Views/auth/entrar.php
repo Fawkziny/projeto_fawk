@@ -20,22 +20,22 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">Início</a>
+            <a class="nav-link active" aria-current="page" href="/">Início</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="promocao.html">Promoções</a>
+            <a class="nav-link" href="/promocao">Promoções</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Minha Conta
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="perfil.html">Perfil</a></li>
-              <li><a class="dropdown-item" href="historico.html">Histórico de Compras</a></li>
-              <li><a class="dropdown-item" href="cadastroprodutos.html">Cadastrar Produto</a></li>
-              <li><a class="dropdown-item" href="plista.html">Todos Produtos</a></li>
-              <li><a class="dropdown-item" href="registrov.html">Registro de Vendas</a></li>
-              <li><a class="dropdown-item" href="lvendas.html">Listagem Vendas/Pedidos</a></li>
+              <li><a class="dropdown-item" href="/perfil">Perfil</a></li>
+              <li><a class="dropdown-item" href="/historico">Histórico de Compras</a></li>
+              <li><a class="dropdown-item" href="/cadastroprodutos">Cadastrar Produto</a></li>
+              <li><a class="dropdown-item" href="/plista">Todos Produtos</a></li>
+              <li><a class="dropdown-item" href="/registrov">Registro de Vendas</a></li>
+              <li><a class="dropdown-item" href="/lvendas">Listagem Vendas/Pedidos</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
@@ -46,12 +46,12 @@
             <a class="nav-link" href="/sobre">Suporte</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="faq.html">FAQ</a>
+            <a class="nav-link" href="/faq">FAQ</a>
           </li>
         </ul>
 
         <div class="d-flex">
-          <a href="dashboard.html" class="btn btn-primary me-2">Dashboard</a>
+          <a href="/dashboard" class="btn btn-primary me-2">Dashboard</a>
           <a href="/registrar" class="btn btn-primary me-2">Cadastrar</a>
           <a href="/entrar" class="btn btn-outline-primary me-3">Entrar</a>
 

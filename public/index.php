@@ -32,6 +32,10 @@ if ($url == "/"){
     render('historico.php', ['title' => 'Historico - LootZone']);
 } else if ($url == "/cadastroprodutos"){
     render('cadastroprodutos.php', ['title' => 'Historico - LootZone']);
+} else if ($url == "/lvendas"){
+    render('lvendas.php', ['title' => 'Vendas - LootZone']);
+} else if ($url == "/cadastro"){
+    render('cadastro.php', ['title' => 'Cadastro - LootZone']);
 }
 
 
